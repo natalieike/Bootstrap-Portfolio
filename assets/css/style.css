@@ -126,57 +126,42 @@ h2 {
 form {
 	padding-bottom: 20px;
 }
-/*
+
 input[type=text], select, textarea {
-    width: 100%;
-    padding: 12px;
-    margin: 10px 0px;
     border: 1px solid #dddddd; 
     outline: none;
 }
-*/
-/*
+
 input[type=text]:focus {
     border: 3px solid darkgrey;
     outline: none;
 }
-*/
-/*
-textarea {
-    width: 100%;
-    height: 300px;
-    padding: 12px;
+
+textarea[type=text-long] {
     border: 1px solid #dddddd; 
     outline: none;
 }
-*/
-/*
-textarea:focus {
+
+textarea[type=text-long]:focus {
     border: 3px solid darkgrey;
     outline: none;
 }
-*/
-/*
-input[type=submit] {
-    background-color: #4aaaa5;
-    color: white;
-    padding: 12px 20px;
-    border: none;
+
+button[type=submit] {
+
     cursor: pointer;
     outline: none;
 }
-*/
-/*
-input[type=submit]:hover {
+
+button[type=submit]:hover {
     background-color: darkgrey;
 }
-*/
-/*
-input[type=submit]:active {
+
+button[type=submit]:active {
     background-color: #4aaaa5;
     opacity: .5;
 }
-*/
+
 
 @media screen and (max-width: 780px){
 	.navbar-fixed-bottom {
