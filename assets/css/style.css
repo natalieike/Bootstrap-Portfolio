@@ -63,6 +63,11 @@ h2 {
 	margin-left: 15px;
 }
 
+.pull-left {
+	margin-bottom: 10px;
+	margin-left: -10px;
+}
+
 .button {
 	color: #777777;
 }
