@@ -106,42 +106,30 @@ h2 {
 	font-weight: bold;
 }
 */
-/*
 .portfolioItems {
-	float: left;
-	position: relative;
-	margin: 20px 10px;
 	overflow: auto;
+	border: none;
 }
-*/
-/*
+
 .portfolioItems:active {
   background-color: lightgrey;
   opacity: .5;
 }	
-*/
-/*
+
 .portfolioItems:hover {
 	opacity: .75;
 }	
-*/
-/*
-.portfolioImages {
-	width: 270px;
-}
-*/
-/*
+
 .textOverlay {
 	position: absolute;
 	background-color: #4aaaa5;
 	bottom: 30px;
-	left: 0px;
+	right: 19px;
+	left: 19px;
 	padding: 20px;
 	color: white;
-	width: 100%;
 	text-align: center;
 }
-*/
 /*
 input[type=text], select, textarea {
     width: 100%;
