@@ -93,19 +93,6 @@ h2 {
 	opacity: .75;
 }	
 
-/*
-#name {
-	background-color: #4aaaa5;
-	font-family: 'Georgia', Times, Times New Roman, serif;
-	color: white;
-	font-size: 28px;
-	padding: 20px;
-	margin-left: 10%;
-	overflow: auto;
-	float: left;
-	font-weight: bold;
-}
-*/
 .portfolioItems {
 	overflow: auto;
 	border: none;
@@ -129,6 +116,10 @@ h2 {
 	padding: 20px;
 	color: white;
 	text-align: center;
+}
+
+form {
+	padding-bottom: 20px;
 }
 /*
 input[type=text], select, textarea {
